@@ -30,11 +30,11 @@ Instrument error Millivoltmeter V3-38A in the working frequency regions, express
 
  
 Table 1: The limits of permissible errors (beyond the assumed changes of reading),%
-| Subranges | Operating frequency range |
+
+| Subranges | I.: 45Hz- 1 MHz | II.: 20 - 45 Hz | III.:  1 - 3 MHz | IV.: 3 - 5 MHz |
 | --- | --- | --- | --- | --- |
-| --- | I | II | III | IV |
-| 1 mV-300mV | ± 2,5 | ± 4,0 (± 4,0) | ± 4,0 (± 4,0) | ± 6,0 (± 6,0) |
-| 1V-300V | ± 2,5 | ± 4,0 (± 4,0) | ± 6,0 (± 6,0) | ± 6,0 (± 6,0) |
+| 1 mV-300mV | ± 2,5 % | ± 4,0 (± 4,0) % | ± 4,0 (± 4,0) % | ± 6,0 (± 6,0) % |
+| 1V-300V | ± 2,5 % | ± 4,0 (± 4,0) % | ± 6,0 (± 6,0) % | ± 6,0 (± 6,0) % |
 
 Change readings, caused by changes in temperature. Ambient air from the normal to any temperature within the operating temperature range does not exceed the basic error for every 10 ° C change in temperature.
 Change readings Millivoltmeter V3-38A, expressed as a percentage of the upper limit established by sub-band, rejecting the shape of the measured voltage from the sinusoidal (THD less than 20%) is less than half the value of the harmonic content in percent.

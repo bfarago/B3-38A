@@ -1,0 +1,33 @@
+C22 = 100uF / 50V
+Resr=21mOhm
+
+C23 = 50uF/100V
+58.21uF /100V on 200kHz/1Vpp 10mVpp
+Resr= Vr*50/(Vo-Vr) =0.5ohm
+
+R34 220k
+M22B 213.551k
+
+R49 :89825
+
+C17
+M750 91 +-5   1n?
+M1500 1282  270+-10
+
+V11,V12 D814D 0481
+14V 24mA 0.34W
+Military Grade
+Ust min - 11.5V
+Ust max - 14V
+Ist min - 3mA
+Ist max - 24mA
+Power Dissipation - 0.34W
+
+КП103Л ТО-18 Транзистор
+Макс. мощность рассеивания	66 mW
+Макс. напряжение сток-исток Uси	12 V
+Ток стока	1,8...6,6 mA
+Структура	Р-FET
+
+
+KT3107B The structure of p-n-p The maximum allowable (pulse) the collector-base 30V The maximum allowable (pulse) collector-emitter voltage 25 V The maximum permissible continuous (pulse) 100 collector current (200 mA) The maximum allowable continuous power dissipation without heat collector (with heatsink) 0.3 W Static current transfer ratio of bipolar transistor in the common-emitter 120-220 Reverse current collector < 1 mA Cutoff frequency of the current transfer ratio in the common-emitter > 200 MHz The noise figure of the bipolar transistor < 4 dB

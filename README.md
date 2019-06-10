@@ -7,6 +7,8 @@ REVERSE ENGINEERING
 -------------------
 This repository contains all the collected informations regarding the old russian millivoltmeter instrument. The goal to collect datasheets, schematics, etc.
 
+![Schematic](rv_doc/schematic_B3_38A_2.jpg)
+
 Technical characteristics
 -------------------------
 Millivoltmeter V3-38A (V3 38A, V338A, b3-38a, b338a, b3 38a)

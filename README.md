@@ -31,8 +31,8 @@ Instrument error Millivoltmeter V3-38A in the working frequency regions, express
  
 Table 1: The limits of permissible errors (beyond the assumed changes of reading),%
 | Subranges | Operating frequency range |
-| --------- | ------------- |
-| --------- | I | II | III | IV |
+| --- | --- | --- | --- | --- |
+| --- | I | II | III | IV |
 | 1 mV-300mV | ± 2,5 | ± 4,0 (± 4,0) | ± 4,0 (± 4,0) | ± 6,0 (± 6,0) |
 | 1V-300V | ± 2,5 | ± 4,0 (± 4,0) | ± 6,0 (± 6,0) | ± 6,0 (± 6,0) |
 

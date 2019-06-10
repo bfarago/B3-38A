@@ -48,4 +48,3 @@ The capacity of each of the connecting cable is not more than 80 pF. Warm-up tim
 The power consumed by the network at a nominal voltage not exceeding 6 VA. Device allows continuous operation in the working conditions for 8 hours
 
 Unit weight Millivoltmeter V3-38A or less than 3.2 kg.
-Weight with transport container is not more than 25 kg.

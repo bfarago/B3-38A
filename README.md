@@ -1,11 +1,11 @@
 # B3-38A
-B3-38A Russian Millivoltmeter
+B3-38A or V3-38A Russian Millivoltmeter
 
 ![Photo](rv_doc/B3-38A.png?raw=true "Photo")
 
 REVERSE ENGINEERING
 -------------------
-This repository contains all the collected informations regarding the old russian millivoltmeter instrument.
+This repository contains all the collected informations regarding the old russian millivoltmeter instrument. The goal to collect datasheets, schematics, etc.
 
 Technical characteristics
 -------------------------

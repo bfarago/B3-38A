@@ -9,7 +9,7 @@ This repository contains all the collected informations regarding the old russia
 
 ![Schematic](rv_doc/schematic_B3_38A_2.jpg)
 
-[BOM](rv_doc/bom.md)
+[BOM](rv_doc/bom.md), [Service Manual](rv_doc/B3-38A.pdf)
 
 Technical characteristics
 -------------------------

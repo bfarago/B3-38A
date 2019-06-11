@@ -29,7 +29,7 @@ Bill of materials
 | Pos | Description | Param |
 | --- | --- | --- |
 | V1,2 | KD 522 B | 1N4148 |
-| V3 | Kp103L | p-jFET |
+| V3 | [Kp103L](kp103l.pdf) | p-jFET |
 | V4,5,6,7 | KT 3107 B | pnp |
 | V9 | KT 3107 A | pnp |
 | V10 | KT 3107 B | pnp |

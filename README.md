@@ -9,6 +9,8 @@ This repository contains all the collected informations regarding the old russia
 
 ![Schematic](rv_doc/schematic_B3_38A_2.jpg)
 
+[BOM](rv_doc/bom.md)
+
 Technical characteristics
 -------------------------
 Millivoltmeter V3-38A (V3 38A, V338A, b3-38a, b338a, b3 38a)
@@ -28,7 +30,7 @@ II from 20 to 45 Hz (except);
 III St.. 1 to 3 MHz (on);
 IV St.. 3 to 5 MHz (inclusive).
 Frequency of calibration of 1 kHz. Primary instrument error, expressed as a percentage of the upper limit established by sub-band measurements, no more than ± 2,5%.
-Instrument error Millivoltmeter V3-38A in the working frequency regions, expressed as a percentage of the upper limit of the established sub-band, and the change of readings within the operating frequency ranges with respect to the frequency of calibration readings in percent, do not exceed the values ​​shown in Table. 1.
+Instrument error Millivoltmeter V3-38A in the working frequency regions, expressed as a percentage of the upper limit of the established sub-band, and the change of readings within the operating frequency ranges with respect to the frequency of calibration readings in percent, do not exceed the values shown in Table. 1.
 
  
 Table 1: The limits of permissible errors (beyond the assumed changes of reading),%
